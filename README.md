@@ -263,8 +263,8 @@ Current status: **17/17 unit tests passing, 78% line coverage** (verified locall
 AI Automation Engineer | AI Agent Engineer | AI Solutions Builder | Entrepreneur
 
 Website: https://sohaggain.com
-GitHub: YOUR_GITHUB_URL
-LinkedIn: YOUR_LINKEDIN_URL
+GitHub: https://github.com/sohaggain
+LinkedIn: https://www.linkedin.com/in/sohaggain
 
 ## License
 
